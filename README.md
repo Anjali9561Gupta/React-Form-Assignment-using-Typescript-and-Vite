@@ -34,8 +34,10 @@ To get started with this project, clone the repository and install the dependenc
 3. npm install
 
 ## Usage
+
 ## Running the Application
 To start the development server and open the application in your browser:
+
 npm run dev
 
 ## Acknowledgements
