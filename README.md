@@ -2,7 +2,9 @@
 
 ## Overview
 
-<p>This project is a React application built with TypeScript and Vite. It demonstrates several key functionalities, including form handling, local storage management, data fetching, and creating a hierarchical list component using Material UI (MUI).</p>>
+<p>This project is a React application built with TypeScript and Vite. It demonstrates several key functionalities, including form handling, local storage management, data fetching, and creating a hierarchical list component using Material UI (MUI).</p>
+
+Go Live on-> https://react-form-assignment-using-typescript-and-vite.vercel.app
 
 ## Objectives
 
@@ -27,7 +29,7 @@
 
 ## Installation
 To get started with this project, clone the repository and install the dependencies:
-1. git clone (https://github.com/Anjali9561Gupta/React-Form-Assignment-using-Typescript-and-Vit)
+1. git clone https://github.com/Anjali9561Gupta/React-Form-Assignment-using-Typescript-and-Vit
 2. cd react-internship-assignment
 3. npm install
 
@@ -37,8 +39,8 @@ To start the development server and open the application in your browser:
 npm run dev
 
 ## Acknowledgements
-[Material UI] (https://mui.com/material-ui/getting-started/overview/) for their excellent component library.
-[Vite] (https://vitejs.dev/guide/) for their fast and modern build tool.
+Material UI for their excellent component library.
+Vite for their fast and modern build tool.
 
 ## API Data (JSON Placeholder)
 https://jsonplaceholder.typicode.com/posts
